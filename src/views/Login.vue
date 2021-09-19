@@ -1,5 +1,8 @@
 <template>
-  <h1> diario de Login</h1>
+  <div class="Login">
+    <h1>This is an login  page</h1>
+    <p>prueba de rama de ana</p>
+  </div>
 </template>
 
 <script>
